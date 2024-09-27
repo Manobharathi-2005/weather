@@ -10,9 +10,9 @@ Single-Page Interface: Smooth UI experience by displaying all weather details on
 
 # Technologies Used:
 
-Flutter
-Dart
-OpenWeather API
+Flutter,
+Dart,
+OpenWeather API,
 BLoC Pattern for state management
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)

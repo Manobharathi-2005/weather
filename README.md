@@ -1,4 +1,4 @@
-# task_8
+# weather app
 
 A new Flutter project.
 
